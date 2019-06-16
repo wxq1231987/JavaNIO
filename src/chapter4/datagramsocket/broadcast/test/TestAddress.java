@@ -1,4 +1,4 @@
-package chapter4.datagramsocket.mutilcast.test;
+package chapter4.datagramsocket.broadcast.test;
 
 import java.net.InetAddress;
 import java.net.InterfaceAddress;
